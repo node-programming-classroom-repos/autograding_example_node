@@ -12,6 +12,7 @@ För att köra testet - sen nedan under **Run command** - skriv kommandot i term
 
 På liknande sätt gäller för kursens uppgifter; du skall skriva kod som passerar testerna utan fel.
 
+
 ### Setup command
 `npm install`
 
